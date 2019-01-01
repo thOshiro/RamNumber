@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RamNumbers</string>
+    <string name="ready_set">Ready... Set...</string>
+    <string name="memorise">Memorise</string>
+    <string name="tap">Tap the number in ascending order</string>
+    <string name="play">Play !</string>
+    <string name="you_win_congratulations">Congratulations you made it !</string>
+    <string name="you_lost">You lost (sad face)</string>
+    <string name="start_new_game_suggestion">Hit play to start new game.</string>
+    <string name="go">Go ! ! !</string>
+    <string name="wait_for_it">Wait for it ...</string>
+    <string name="noobie">Noobie</string>
+    <string name="not_bad">Not Bad</string>
+    <string name="moderate">Moderate</string>
+    <string name="impressive">Impressive</string>
+    <string name="beyond">Beyond this world !</string>
+    <string name="level_title">Level:</string>
+    <string name="there_is_no_next_level">There is no next Level !</string>
+</resources>
